@@ -28,3 +28,8 @@
 //   alert( "Sum=" + calculator.sum() );
 //   alert( "Mul=" + calculator.mul() );
 
+
+
+
+
+
